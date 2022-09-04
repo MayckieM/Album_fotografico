@@ -45,6 +45,7 @@ a{
   background-color: #6e6b6b;
   padding-left: 10px;
   padding-right: 10px;
+  box-shadow: 5px 5px;
 }
 
 #text .philosophy{
@@ -55,4 +56,5 @@ a{
   padding-left: 10px;
   padding-right: 10px;
   background-color: #6e6b6b;
+  box-shadow: 5px 5px;
 }
